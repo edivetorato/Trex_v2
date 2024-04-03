@@ -1,2 +1,1 @@
-# Trex_v2
-jogo do Trex
+# C19-TA2
